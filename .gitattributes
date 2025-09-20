@@ -1,0 +1,3 @@
+*.so binary
+*.tar.gz binary
+elasticsearch/elasticsearch-8.15.0/jdk/lib/modules binary
